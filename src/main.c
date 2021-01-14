@@ -11,5 +11,8 @@ int main()
 		a++;
 	}
 
+	int b = 10;
+	int b = 10;
+
 	return (0);
 }
